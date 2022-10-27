@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "465899841584",
+    "project_id": "hmgservicios-7b463",
+    "storage_bucket": "hmgservicios-7b463.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465899841584:android:addcd6403399ecf2cea5f5",
+        "android_client_info": {
+          "package_name": "com.hm_electronicservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465899841584-qbbft7hl92mt8asndv55nbsuvrbvo3dk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hm_electronicservice",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "465899841584-4gs1439lqdvogpt4j6irgqacei6c1ehp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdH79gKIt1o9L1qXE7PCrVtIBnZG4vlYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465899841584-4gs1439lqdvogpt4j6irgqacei6c1ehp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
